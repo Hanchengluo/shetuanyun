@@ -1,0 +1,134 @@
+#header1{
+				background-color: #85D066;
+				
+			}
+			/*表单*/
+   			#form{
+   				width: 72%;
+   				height: 47px;
+   			}
+   			/*搜索栏*/
+   			
+   			#inputgroup{
+   				position: relative;
+   				top: -9px;
+   				left: 18.5%;
+   			}
+   			
+   			/*活动召集*/
+   			#huodongzhaoji{
+   				width:100% ;
+   				height: 150px;
+   				overflow-y: hidden;
+   				overflow-x: scroll;
+   				
+   				position: relative;
+   				top: 5px;
+   				
+   			}
+   			/*活动框*/
+   			.hd{
+   				width: 178%;
+   				
+   			}
+   			/*活动页*/
+   			.hh1{
+   				background-color: white;
+   				width:19% ;
+   				height: 150px;
+   				float: left;
+   				margin-left:10px ;
+   				
+   			}
+   			/*活动召集下栏活动字体*/
+   			.hdziti{
+   				font-family: simhei;
+   				font-size:13px ; 
+   				position:relative;
+   				
+   				top: 5px;
+   				display: block;
+   				text-align: center;
+				
+   				
+   				
+   			}
+   			/*同城下栏活动字体*/
+   			.tchdziti{
+   				font-family: simhei;
+   				font-size:13px ; 
+   				position: relative;
+   				top: 5px;
+   				display: block;
+   				text-align: center;
+   			}
+   			/*同城社团*/
+   			.tongchengshetuan{
+   				width:100% ;
+   				height: 150px;
+   				overflow-y: hidden;
+   				overflow-x: scroll;
+   				position: relative;
+   				top: 18px;
+   				
+   			}
+   			/*活动召集图标*/
+   			#zhaojitubiao{
+   				font-size: 21px;color: #FF2122;
+   			}
+   			#zhaojitubiao:hover{
+   				color: #7774B7;
+   			}
+   			/*活动召集字体*/
+   			#huodongzhaojiziti{
+   				font-size: 13px;color: #FF2122;letter-spacing: 2px;
+   				display: block;
+   				position: relative;
+   				top: -20px;
+   				left: 26px;
+   			}
+   			#huodongzhaojiziti:hover{
+   				color: #7774B7;
+   			}
+   			
+   			/*同城竞技图标*/
+   			#tcjjtubiao{
+   				font-size: 21px;color: #FF2122;
+   			}
+   			#tcjjtubiao:hover{
+   				color: #7774B7;
+   			}
+   			/*同城竞技字体*/
+   			#tcjjziti{
+   				font-size: 13px;color: #FF2122;letter-spacing: 2px;
+   				position: relative;
+   				display: block;
+   				top: -21px;
+   				left: 26px;
+   			}
+   			#tcjjziti:hover{
+   				color: #7774B7;
+   			}
+   			
+   			/*活动召集链接*/
+   			.hdzjlianjie{
+   				display: block;
+   				width: 26.6%;
+   				position: relative;
+   				top: 11px;left: 11px;
+   			}
+   			/*同城竞技链接*/
+   			.tcjjlianjie
+   			{
+   				display: block;
+   				width: 26.6%;
+   				position: relative;
+   				top: 20px;left:11px ;
+   			}
+   			a:hover{
+   				text-decoration: none;
+   			}
+   			/*搜索按钮*/
+   			#sousuoanniu{
+   				height: 37px;
+   			}
